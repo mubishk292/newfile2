@@ -1,1 +1,5 @@
+<<<<<<< ours
 branch text added
+=======
+sone text added
+>>>>>>> theirs
